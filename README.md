@@ -1,1 +1,2 @@
 # SPOJ
+Basic problem solutions
